@@ -5,7 +5,6 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdonguk&count_bg=%23777777&title_bg=%23555555&icon=&icon_color=%23333333&title=hits&edge_flat=false)
 
 ![jdonguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdonguk&theme=dark&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdonguk&layout=compact&theme=dark)
 
 # Language 💻
